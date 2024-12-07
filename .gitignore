@@ -163,4 +163,4 @@ cython_debug/
 inputs/*
 cookie
 .DS_Store
-today
+today.txt
